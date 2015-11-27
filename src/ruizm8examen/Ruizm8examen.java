@@ -8,6 +8,7 @@ public class Ruizm8examen {
      */
     public static void main(String[] args) {
      System.out.println("Primera versió del arxiui");
+     //hasta aqui 2,5
     }
     
 }
